@@ -17,7 +17,7 @@ if not vers_re.match(args.version):
 if not os.path.exists(args.file):
     print('error: such no file')
     exit()
-if os.path.exists(args.file):
+if os.path.exists(output_name):
     print('error: already commit this version')
     exit()
 
