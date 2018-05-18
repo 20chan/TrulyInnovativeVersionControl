@@ -21,7 +21,7 @@ if os.path.exists(output_name):
     print('error: already commit this version')
     exit()
 
-with open(args.file, 'r') as file:
+with open(args.file, 'r', encoding='utf8') as file:
     data = file.read()
     tts = gTTS(data)
     tts.save(output_name)
