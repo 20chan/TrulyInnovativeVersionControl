@@ -13,7 +13,7 @@ python tivc.py source.py -v 1.1
 
 ## Example
 
-[Uploaded tivc.py - 1.0.mp3 to Soundcloud!](https://soundcloud.com/phillyai/tivcpy-10)
+[Uploaded tivc.py - 1.0.mp3 to Soundcloud!](https://soundcloud.com/20chan/tivcpy-10)
 
 ## TODO
 
